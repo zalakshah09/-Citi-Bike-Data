@@ -8,4 +8,5 @@ Since 2013, the Citi Bike program has implemented a robust infrastructure for co
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. City officials have questions about the program, so your first task on the job is to build a set of data reports to provide the answers.
 
 Deployment
-Please find below the link to the Tableau dashboard, showcasing the results of the analysis: https://prod-apsoutheast-a.online.tableau.com/t/zoeyshah09316a4184ec/authoring/Citibike-Module18/citibike#1
+Please find below the link to the Tableau dashboard, showcasing the results of the analysis:
+https://prod-apsoutheast-a.online.tableau.com/t/zoeyshah09316a4184ec/authoring/Citibike-Module18/citibike#1
